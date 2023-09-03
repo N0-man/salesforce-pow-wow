@@ -1,0 +1,3 @@
+# Salesforce Pow Wow
+
+A playground for everthing I discover about SalesForce (SF). The objective is to figure out pro-code (programatic) ways of writing code in SalesForce honoring  contineious delivery practices if possible OTHERWISE call it a *Mehh*...
